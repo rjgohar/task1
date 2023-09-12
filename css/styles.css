@@ -193,8 +193,8 @@ img {
 
 /*===== HOME =====*/
 .home {
-  background-image: url("/img/banner.jpg");
-  background-position: center;
+  background-image: url("https://img.freepik.com/free-photo/front-view-sale-word-bag-with-black-background_23-2148281054.jpg?t=st=1694495554~exp=1694496154~hmac=ea42741e23ef5ebf9749e57fcaaaf15d1c78a084810cfd746defe7f0d924562e");
+  background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
 
