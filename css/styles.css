@@ -193,6 +193,11 @@ img {
 
 /*===== HOME =====*/
 .home {
+  background-image: url(/img/banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
   background-color: var(--gray-color);
 }
 
@@ -206,6 +211,7 @@ img {
 
 .home__title {
   align-self: center;
+  color: var(--gray-color) !important;
   font-size: var(--big-font-size);
   line-height: 1;
   letter-spacing: 0.5rem;
